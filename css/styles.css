@@ -170,6 +170,10 @@ h1 {
     text-align: center;
   }
 
+  #title .navbar-nav {
+    text-align: right;
+  }
+
   .rotate {
     position: static;
     transform: rotate(0);
